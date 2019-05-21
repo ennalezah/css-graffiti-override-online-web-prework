@@ -16,7 +16,7 @@
   display: none;
 }
 
-div#wall .parent #tag-5.slick[id~=tag-5] {
+#wall .parent #tag-5.slick {
   display: none;
 }
 
