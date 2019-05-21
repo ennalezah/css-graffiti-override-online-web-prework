@@ -4,7 +4,7 @@
   display: none;
 }
 
-div#wall:nth-child(2) {
+#wall #tag-2[id~=tag-2] {
   display: none;
 }
 
